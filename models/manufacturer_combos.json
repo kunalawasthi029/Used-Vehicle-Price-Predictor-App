@@ -1,0 +1,1480 @@
+{
+  "Unknown": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "bus",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "12 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 3426
+  },
+  "acura": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2890
+  },
+  "alfa-romeo": {
+    "fuel": [
+      "Unknown",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "rwd"
+    ],
+    "transmission": [
+      "automatic",
+      "other"
+    ],
+    "count": 823
+  },
+  "aston-martin": {
+    "fuel": [
+      "gas"
+    ],
+    "type": [
+      "coupe"
+    ],
+    "cylinders": [
+      "12 cylinders",
+      "other"
+    ],
+    "drive": [
+      "rwd"
+    ],
+    "transmission": [
+      "automatic"
+    ],
+    "count": 5
+  },
+  "audi": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 4064
+  },
+  "bmw": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "12 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 5509
+  },
+  "buick": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2307
+  },
+  "cadillac": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "12 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2917
+  },
+  "chevrolet": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "bus",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 18877
+  },
+  "chrysler": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "mini-van",
+      "other",
+      "sedan",
+      "van"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 1799
+  },
+  "dodge": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 4958
+  },
+  "ferrari": {
+    "fuel": [
+      "gas"
+    ],
+    "type": [
+      "convertible"
+    ],
+    "cylinders": [
+      "8 cylinders"
+    ],
+    "drive": [
+      "rwd"
+    ],
+    "transmission": [
+      "automatic"
+    ],
+    "count": 2
+  },
+  "fiat": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 433
+  },
+  "ford": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "bus",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "offroad",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 25079
+  },
+  "gmc": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 6520
+  },
+  "harley-davidson": {
+    "fuel": [
+      "Unknown",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "Unknown",
+      "other",
+      "sedan",
+      "van"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 31
+  },
+  "honda": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 5602
+  },
+  "hyundai": {
+    "fuel": [
+      "Unknown",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 4491
+  },
+  "infiniti": {
+    "fuel": [
+      "Unknown",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2348
+  },
+  "jaguar": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 1258
+  },
+  "jeep": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "offroad",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 7807
+  },
+  "kia": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "bus",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 4256
+  },
+  "land rover": {
+    "fuel": [
+      "gas"
+    ],
+    "type": [
+      "SUV"
+    ],
+    "cylinders": [
+      "8 cylinders"
+    ],
+    "drive": [
+      "4wd"
+    ],
+    "transmission": [
+      "automatic"
+    ],
+    "count": 1
+  },
+  "lexus": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "other"
+    ],
+    "count": 2797
+  },
+  "lincoln": {
+    "fuel": [
+      "Unknown",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2123
+  },
+  "mazda": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 2035
+  },
+  "mercedes-benz": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 3589
+  },
+  "mini": {
+    "fuel": [
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "sedan",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 915
+  },
+  "mitsubishi": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "other",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 1827
+  },
+  "nissan": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "bus",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 7648
+  },
+  "porsche": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "10 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 379
+  },
+  "ram": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "mini-van",
+      "offroad",
+      "other",
+      "pickup",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 8934
+  },
+  "rover": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd"
+    ],
+    "transmission": [
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 984
+  },
+  "subaru": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "gas",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "offroad",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "6 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 3460
+  },
+  "tesla": {
+    "fuel": [
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 571
+  },
+  "toyota": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "offroad",
+      "other",
+      "pickup",
+      "sedan",
+      "truck",
+      "van",
+      "wagon"
+    ],
+    "cylinders": [
+      "3 cylinders",
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 10883
+  },
+  "volkswagen": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "offroad",
+      "other",
+      "sedan",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "8 cylinders",
+      "Unknown",
+      "other"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 3752
+  },
+  "volvo": {
+    "fuel": [
+      "Unknown",
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other"
+    ],
+    "type": [
+      "SUV",
+      "Unknown",
+      "hatchback",
+      "other",
+      "sedan",
+      "truck",
+      "wagon"
+    ],
+    "cylinders": [
+      "4 cylinders",
+      "5 cylinders",
+      "6 cylinders",
+      "Unknown"
+    ],
+    "drive": [
+      "4wd",
+      "Unknown",
+      "fwd",
+      "rwd"
+    ],
+    "transmission": [
+      "Unknown",
+      "automatic",
+      "manual",
+      "other"
+    ],
+    "count": 1489
+  }
+}
