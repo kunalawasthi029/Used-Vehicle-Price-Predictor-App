@@ -1,6 +1,7 @@
 # Vehicle Price Prediction Using Supervised Machine Learning
 *GitHub | Jul '25 - Sep '25*
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=kunalawasthi029/Used-Vehicle-Price-Predictor-App&branch=main&mainModule=app/streamlit_app.py)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange?logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-red)
