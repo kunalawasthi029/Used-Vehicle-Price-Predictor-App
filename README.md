@@ -1,18 +1,31 @@
 # Vehicle Price Prediction Using Supervised Machine Learning
 *GitHub | Jul '25 - Sep '25*
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=kunalawasthi029/Used-Vehicle-Price-Predictor-App&branch=main&mainModule=app/streamlit_app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)](https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-orange?logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?logo=streamlit&logoColor=white)
 
 An end-to-end Machine Learning application that predicts used car prices from historical vehicle listing data. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, model comparison, and deployment as an interactive web application.
 
 ---
 
+## 🌐 Live Web Application
+
+Try the interactive model deployed live on Streamlit Cloud:
+
+👉 **[https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/](https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/)**
+
+- **Real-World Feature Filtering:** Dynamic dropdowns automatically adapt based on manufacturer (e.g., Porsche excludes vans, Tesla is electric-only).
+- **Instant Estimation:** Estimate vehicle prices based on year, mileage, transmission, drivetrain, condition, and full state locations.
+- **Embedded Insights:** Integrated EDA plots, feature importance rankings, and multi-model benchmark charts.
+
+---
+
 ## Table of Contents
 
+- [Live Demo](#-live-web-application)
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
