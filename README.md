@@ -1,5 +1,4 @@
 # Vehicle Price Prediction Using Supervised Machine Learning
-*GitHub | Jul '25 - Sep '25*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)](https://used-vehicle-price-predictor-app-kunal-awasthi.streamlit.app/)
